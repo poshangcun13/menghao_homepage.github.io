@@ -52,61 +52,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[1]Experiences and Practices in the Current Prevention and Control of the Novel Coronavirus Pneumonia in China
 
-[2]Damage-Associated Molecular Patterns and Their Signaling Pathways in Primary Blast Lung Injury: New Research Progress and Future Directions
-
-[3]Effect of Travel Restrictions of Wuhan City Against COVID-19: A Modified SEIR Model Analysis
-
-[4]The Role of Alpha-1-Acid Glycoprotein in the Diagnosis and Treatment of Crush Syndrome-Induced Acute Kidney Injury
-
-[5]Patient delay in a coronavirus disease 2019 (COVID-19) outbreak in Tianjin. China from January to February 2020
-
-[6]Mechanism of Phosgene-Induced Acute Lung Injury and Treatment Strategy
-
-[7]Characteristics and Developments in Mesenchymal Stem Cell Therapy for COVID-19: An Update
-
-[8]A Novel Animal Model of Primary Blast Lung Injury and Its Pathological Changes in Mice
-
-[9]MicroRNAs: Important Regulatory Molecules in Acute Lung Injury/Acute Respiratory Distress Syndrome
-
-[10]Protective Effect of Nebulized Heparin in the Animal Models of Smoke Inhalation Injury: A Meta-analysis and Systematic Review of Experimental Studies
-
-[11]Global Trends and Research Hotspots in Long COVID: A Bibliometric Analysis
-
-[12]Mesenchymal Stem Cell-Derived Extracellular Vesicles as Idiopathic Pulmonary Fibrosis Microenvironment Targeted Delivery
-
-[13]Research Progress of Portable Extracorporeal Membrane Oxygenation
-
-[14]The Effects of ECMO on Neurological Function Recovery of Critical Patients: A Double-edged Sword
-
-[15]Urban-sub-urban-rural Vriation in The Supply and Demand of Emergency Medical Services
-
-[16]Associations of Traumatic Injury with Abnormal Glucose Metabolism: A Population-Based Prospective Cohort Study
-
-[17]Engineered inhalable nanocatalytic therapeutics for Parkinson’s disease by inducing mitochondrial autophagy
-
-[18]Shear-induced acquired von Willebrand syndrome: an accomplice of bleeding events in adults on extracorporeal membrane oxygenation support
-
-[19]miR-223: a key regulator of pulmonary inflammation
-
-[20]Clinical application of a body area network-based smart bracelet for pre-hospital trauma care
-
-[21]Hemorrhagic Shock Assessed by Tissue Microcirculatory Monitoring: A Narrative Review
-
-[22]The Role of Long Noncoding RNAs in Intestinal Health and Diseases: A Focus on the Intestinal Barrier
-
-[23]Breaking New Ground: Standardizing Rat Models for Crush Syndrome Investigations
-
-[24]Out-of-hospital cardiac arrest: A data-driven visualization of collaboration
-
-[25]Radiation-Induced Intestinal Injury: Injury Mechanism and Potential Treatment Strategies
-
-[26]Hemoadsorption in acute respiratory distress syndrome patients requiring venovenous extracorporeal membrane oxygenation: a systematic review
-
-[27]A gender recognition method based on EEG microstates
-
-[28]Smart textiles for chronic disease management: Advancements, applications, and future prospects
 
 
 
