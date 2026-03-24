@@ -30,7 +30,18 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
+- 
+# 🎖 Honors and Awards
+
+- *2019.12* 国家科技进步二等奖：重大自然灾害医疗救援体系的创建及关键技术、装备研发及应用（参与人数：9）
+
+- *2014.12* 国家科技进步二等奖：我国重大突发事件应急医学救援模块化体系创建及应用（参与人数：9）
+
+- *2014.03* 中国人民武装警察部队科学委员会科技进步省部一等奖：高原高寒地震救援关键技术与装备研发（参与人数：9）
+
+- *2013.02* 天津市人民政府科技进步省部一等奖：急进高原救援群体性高原反应机制及防治研究（参与人数：12）
+
 
 # 📝 Publications 
 
@@ -41,22 +52,174 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[<strong>Experiences and Practices in the Current Prevention and Control of the Novel Coronavirus Pneumonia in China</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Study on prevention and control strategies for COVID-19 in China, summarizing practical experiences and public health responses.
 </div>
 </div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+[<strong>Damage-Associated Molecular Patterns and Their Signaling Pathways in Primary Blast Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Review of DAMPs and signaling mechanisms in blast-induced lung injury.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
 
-# 🎖 Honors and Awards
+[<strong>Effect of Travel Restrictions of Wuhan City Against COVID-19</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Modified SEIR model to evaluate the effectiveness of travel restrictions during COVID-19.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Modeling**
 
-- *2019.12* 国家科技进步二等奖：重大自然灾害医疗救援体系的创建及关键技术、装备研发及应用（参与人数：9）
+[<strong>The Role of Alpha-1-Acid Glycoprotein in Crush Syndrome-Induced AKI</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Investigates diagnostic and therapeutic roles of AGP in acute kidney injury.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
 
-- *2014.12* 国家科技进步二等奖：我国重大突发事件应急医学救援模块化体系创建及应用（参与人数：9）
+[<strong>Patient Delay in COVID-19 Outbreak in Tianjin</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Analysis of patient delay behavior during early COVID-19 outbreak.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
 
-- *2014.03* 中国人民武装警察部队科学委员会科技进步省部一等奖：高原高寒地震救援关键技术与装备研发（参与人数：9）
+[<strong>Mechanism of Phosgene-Induced Acute Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Mechanistic insights and treatment strategies for phosgene toxicity.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
 
-- *2013.02* 天津市人民政府科技进步省部一等奖：急进高原救援群体性高原反应机制及防治研究（参与人数：12）
+[<strong>Mesenchymal Stem Cell Therapy for COVID-19</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Overview of MSC therapy advances in COVID-19 treatment.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>A Novel Animal Model of Primary Blast Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Development of mouse model for blast lung injury.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>MicroRNAs in Acute Lung Injury/ARDS</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Role of miRNAs in regulating inflammatory pathways.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>Protective Effect of Nebulized Heparin in Smoke Inhalation Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Meta-analysis of experimental studies on inhalation injury.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Meta-analysis**
+
+[<strong>Global Trends in Long COVID</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Bibliometric analysis of long COVID research hotspots.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Analysis**
+
+[<strong>MSC-Derived Extracellular Vesicles for Pulmonary Fibrosis</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Targeted delivery strategies using extracellular vesicles.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Portable ECMO Research Progress</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Advances in portable ECMO technology.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>ECMO and Neurological Recovery</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Analysis of ECMO impact on neurological outcomes.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Urban–Rural EMS Disparities</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Study of emergency medical service inequality.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Traumatic Injury and Glucose Metabolism</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Prospective cohort analysis of metabolic changes.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Cohort Study**
+
+[<strong>Nanocatalytic Therapeutics for Parkinson’s Disease</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Novel nanomedicine inducing mitochondrial autophagy.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Acquired von Willebrand Syndrome in ECMO</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Mechanisms of bleeding complications during ECMO.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>miR-223 in Pulmonary Inflammation</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Regulatory role of miR-223 in inflammation.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Smart Bracelet for Pre-hospital Trauma Care</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Body area network-based wearable device.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Hemorrhagic Shock and Microcirculation</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Narrative review on microcirculatory monitoring.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>Long Noncoding RNAs in Intestinal Diseases</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Focus on intestinal barrier regulation.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>Rat Models for Crush Syndrome</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Standardization of experimental models.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Journal**
+
+[<strong>Out-of-hospital Cardiac Arrest Visualization</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Data-driven collaboration analysis.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Analysis**
+
+[<strong>Radiation-Induced Intestinal Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Mechanisms and therapeutic strategies.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
+[<strong>Hemoadsorption in ARDS with ECMO</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Systematic review of ECMO patients.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Systematic Review**
+
+[<strong>EEG Microstate-based Gender Recognition</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- EEG-based machine learning classification method.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **AI**
+
+[<strong>Smart Textiles for Chronic Disease Management</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
+- Advances in wearable healthcare technologies.
+</div>
+</div>
+- [Code/Project](https://github.com), A, B, C, **Review**
+
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
