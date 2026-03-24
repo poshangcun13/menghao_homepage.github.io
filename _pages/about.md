@@ -17,7 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Menghao Fang dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+樊毫军，医学博士，天津大学教授、主任医师、博士生导师。现任天津大学卫生应急学院院长、应急医学装备中心主任，并担任智能生命支持技术与装备方向学科带头人。
+
+樊毫军教授长期深耕于应急医学、灾害救援以及智能生命支持技术的前沿交叉领域。其研究工作紧密贴合国家重大突发事件应急救援需求与临床急危重症的救治痛点，致力于将现代智能技术与一线急救深度融合。团队的核心研究方向包括：原发性肺冲击伤等灾害致伤机制研究、复杂急重症（如横纹肌溶解综合征并发急性肾损伤等）的精准临床预测模型构建、重大传染病流行病学及疫情防控，以及先进医学救援装备的实战化研发与转化。
+
+近年来，樊教授带领团队在基础研究与临床转化上屡获突破。不仅在《eClinicalMedicine》（《柳叶刀》子刊）等国际顶级或权威医学期刊上发表多篇具有广泛影响力的学术论文，还成功获批“春秋/夏季医疗救援服”、“球形动物高压舱”等多项国家发明专利。此外，樊教授参与编写及主译了《救援防护医学》、《高原病》、《国内外重大灾害救援案例剖析》等多部行业核心专著，为我国灾害医学的人才培养与学科建设打下了坚实基础。
+
+作为我国应急医学领域的积极推动者，樊教授始终秉持“以科技创新赋能生命救援”的理念，不断探索急危重症患者的个性化救治新路径，致力于为全面提升我国突发事件紧急医学救援能力贡献核心科技力量。。
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
