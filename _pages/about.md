@@ -63,7 +63,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -74,3 +73,42 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 💻 研究团队
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+
+# 💻 研究团队
+
+<div class="tab-buttons">
+  <button onclick="showTab('team-intro')">团队简介</button>
+  <button onclick="showTab('team-members')">团队成员</button>
+  <button onclick="showTab('team-collab')">合作单位</button>
+</div>
+
+<div id="team-intro" class="tab-content">
+  <p>
+  本团队长期从事应急医学、灾害救援及智能生命支持技术研究，围绕国家重大突发事件需求开展基础与应用研究。
+  </p>
+</div>
+
+<div id="team-members" class="tab-content" style="display:none;">
+  <ul>
+    <li>成员1：XXX（研究方向）</li>
+    <li>成员2：XXX（研究方向）</li>
+    <li>成员3：XXX（研究方向）</li>
+  </ul>
+</div>
+
+<div id="team-collab" class="tab-content" style="display:none;">
+  <ul>
+    <li><a href="https://github.com/">合作单位A</a></li>
+    <li><a href="https://github.com/">合作单位B</a></li>
+  </ul>
+</div>
+
+<script>
+function showTab(id) {
+  const tabs = document.querySelectorAll('.tab-content');
+  tabs.forEach(tab => tab.style.display = 'none');
+  document.getElementById(id).style.display = 'block';
+}
+</script>
+
