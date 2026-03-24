@@ -49,8 +49,14 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2019.12* 国家科技进步二等奖：重大自然灾害医疗救援体系的创建及关键技术、装备研发及应用（参与人数：9）
+
+- *2014.12* 国家科技进步二等奖：我国重大突发事件应急医学救援模块化体系创建及应用（参与人数：9）
+
+- *2014.03* 中国人民武装警察部队科学委员会科技进步省部一等奖：高原高寒地震救援关键技术与装备研发（参与人数：9）
+
+- *2013.02* 天津市人民政府科技进步省部一等奖：急进高原救援群体性高原反应机制及防治研究（参与人数：12）
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
