@@ -52,173 +52,62 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-[<strong>Experiences and Practices in the Current Prevention and Control of the Novel Coronavirus Pneumonia in China</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Study on prevention and control strategies for COVID-19 in China, summarizing practical experiences and public health responses.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[1]Experiences and Practices in the Current Prevention and Control of the Novel Coronavirus Pneumonia in China
 
-[<strong>Damage-Associated Molecular Patterns and Their Signaling Pathways in Primary Blast Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Review of DAMPs and signaling mechanisms in blast-induced lung injury.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[2]Damage-Associated Molecular Patterns and Their Signaling Pathways in Primary Blast Lung Injury: New Research Progress and Future Directions
 
-[<strong>Effect of Travel Restrictions of Wuhan City Against COVID-19</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Modified SEIR model to evaluate the effectiveness of travel restrictions during COVID-19.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Modeling**
+[3]Effect of Travel Restrictions of Wuhan City Against COVID-19: A Modified SEIR Model Analysis
 
-[<strong>The Role of Alpha-1-Acid Glycoprotein in Crush Syndrome-Induced AKI</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Investigates diagnostic and therapeutic roles of AGP in acute kidney injury.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[4]The Role of Alpha-1-Acid Glycoprotein in the Diagnosis and Treatment of Crush Syndrome-Induced Acute Kidney Injury
 
-[<strong>Patient Delay in COVID-19 Outbreak in Tianjin</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Analysis of patient delay behavior during early COVID-19 outbreak.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[5]Patient delay in a coronavirus disease 2019 (COVID-19) outbreak in Tianjin. China from January to February 2020
 
-[<strong>Mechanism of Phosgene-Induced Acute Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Mechanistic insights and treatment strategies for phosgene toxicity.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[6]Mechanism of Phosgene-Induced Acute Lung Injury and Treatment Strategy
 
-[<strong>Mesenchymal Stem Cell Therapy for COVID-19</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Overview of MSC therapy advances in COVID-19 treatment.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[7]Characteristics and Developments in Mesenchymal Stem Cell Therapy for COVID-19: An Update
 
-[<strong>A Novel Animal Model of Primary Blast Lung Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Development of mouse model for blast lung injury.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[8]A Novel Animal Model of Primary Blast Lung Injury and Its Pathological Changes in Mice
 
-[<strong>MicroRNAs in Acute Lung Injury/ARDS</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Role of miRNAs in regulating inflammatory pathways.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[9]MicroRNAs: Important Regulatory Molecules in Acute Lung Injury/Acute Respiratory Distress Syndrome
 
-[<strong>Protective Effect of Nebulized Heparin in Smoke Inhalation Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Meta-analysis of experimental studies on inhalation injury.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Meta-analysis**
+[10]Protective Effect of Nebulized Heparin in the Animal Models of Smoke Inhalation Injury: A Meta-analysis and Systematic Review of Experimental Studies
 
-[<strong>Global Trends in Long COVID</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Bibliometric analysis of long COVID research hotspots.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Analysis**
+[11]Global Trends and Research Hotspots in Long COVID: A Bibliometric Analysis
 
-[<strong>MSC-Derived Extracellular Vesicles for Pulmonary Fibrosis</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Targeted delivery strategies using extracellular vesicles.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[12]Mesenchymal Stem Cell-Derived Extracellular Vesicles as Idiopathic Pulmonary Fibrosis Microenvironment Targeted Delivery
 
-[<strong>Portable ECMO Research Progress</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Advances in portable ECMO technology.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[13]Research Progress of Portable Extracorporeal Membrane Oxygenation
 
-[<strong>ECMO and Neurological Recovery</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Analysis of ECMO impact on neurological outcomes.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[14]The Effects of ECMO on Neurological Function Recovery of Critical Patients: A Double-edged Sword
 
-[<strong>Urban–Rural EMS Disparities</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Study of emergency medical service inequality.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[15]Urban-sub-urban-rural Vriation in The Supply and Demand of Emergency Medical Services
 
-[<strong>Traumatic Injury and Glucose Metabolism</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Prospective cohort analysis of metabolic changes.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Cohort Study**
+[16]Associations of Traumatic Injury with Abnormal Glucose Metabolism: A Population-Based Prospective Cohort Study
 
-[<strong>Nanocatalytic Therapeutics for Parkinson’s Disease</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Novel nanomedicine inducing mitochondrial autophagy.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[17]Engineered inhalable nanocatalytic therapeutics for Parkinson’s disease by inducing mitochondrial autophagy
 
-[<strong>Acquired von Willebrand Syndrome in ECMO</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Mechanisms of bleeding complications during ECMO.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[18]Shear-induced acquired von Willebrand syndrome: an accomplice of bleeding events in adults on extracorporeal membrane oxygenation support
 
-[<strong>miR-223 in Pulmonary Inflammation</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Regulatory role of miR-223 in inflammation.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[19]miR-223: a key regulator of pulmonary inflammation
 
-[<strong>Smart Bracelet for Pre-hospital Trauma Care</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Body area network-based wearable device.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[20]Clinical application of a body area network-based smart bracelet for pre-hospital trauma care
 
-[<strong>Hemorrhagic Shock and Microcirculation</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Narrative review on microcirculatory monitoring.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[21]Hemorrhagic Shock Assessed by Tissue Microcirculatory Monitoring: A Narrative Review
 
-[<strong>Long Noncoding RNAs in Intestinal Diseases</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Focus on intestinal barrier regulation.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[22]The Role of Long Noncoding RNAs in Intestinal Health and Diseases: A Focus on the Intestinal Barrier
 
-[<strong>Rat Models for Crush Syndrome</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Standardization of experimental models.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Journal**
+[23]Breaking New Ground: Standardizing Rat Models for Crush Syndrome Investigations
 
-[<strong>Out-of-hospital Cardiac Arrest Visualization</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Data-driven collaboration analysis.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Analysis**
+[24]Out-of-hospital cardiac arrest: A data-driven visualization of collaboration
 
-[<strong>Radiation-Induced Intestinal Injury</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Mechanisms and therapeutic strategies.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[25]Radiation-Induced Intestinal Injury: Injury Mechanism and Potential Treatment Strategies
 
-[<strong>Hemoadsorption in ARDS with ECMO</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Systematic review of ECMO patients.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Systematic Review**
+[26]Hemoadsorption in acute respiratory distress syndrome patients requiring venovenous extracorporeal membrane oxygenation: a systematic review
 
-[<strong>EEG Microstate-based Gender Recognition</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- EEG-based machine learning classification method.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **AI**
+[27]A gender recognition method based on EEG microstates
 
-[<strong>Smart Textiles for Chronic Disease Management</strong>](https://scholar.google.com) <strong><span class='show_paper_citations'></span></strong>
-- Advances in wearable healthcare technologies.
-</div>
-</div>
-- [Code/Project](https://github.com), A, B, C, **Review**
+[28]Smart textiles for chronic disease management: Advancements, applications, and future prospects
+
 
 
 # 📖 Educations
