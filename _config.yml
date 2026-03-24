@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "方梦浩"
-description              : "喜欢看动漫，看电影. "
+title                    : "樊毫军"
+description              : "教授、主任医师、博士生导师。天津大学卫生应急学院院长，应急医学装备中心，主任智能生命支持技术与装备方向学科带头人"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "方梦浩"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "天津大学"
-  location         : "Beijing, China"
+  bio              : "天津大学卫生应急学院"
+  location         : "Tianjin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
