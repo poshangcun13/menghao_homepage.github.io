@@ -53,7 +53,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
 
-[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
 </div>
 </div>
