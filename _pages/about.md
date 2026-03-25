@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 [**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
 </div>
-
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:300px !important; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
