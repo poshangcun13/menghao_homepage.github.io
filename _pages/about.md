@@ -57,6 +57,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
+- Indexed in *eClinicalMedicine*, IF = 10.0
 </div>
 </div>
 
@@ -70,6 +71,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed a rapid electrochemical biosensor for VWF detection in ECMO, enabling early bleeding risk assessment with high sensitivity, strong ELISA correlation, and point-of-care clinical applicability.
+- Indexed in *Biosensors and Bioelectronics*, IF = 10.5
 </div>
 </div>
 
@@ -83,6 +85,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://link.springer.com/article/10.1007/s42765-025-00675-x) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed a smart wound dressing enabling exudate control, spatial pH monitoring, infection detection, and accelerated healing, integrating sensing and therapy in a wireless fibrous platform.
+- Indexed in *Advanced Fiber Materials*, IF = 21.3
 </div>
 </div>
 
@@ -96,6 +99,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://www.sciencedirect.com/science/article/abs/pii/S1385894725123474) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed a photothermal hemostatic hydrogel enabling rapid bleeding control, enhancing coagulation, reducing blood loss, and improving survival in severe hemorrhage models with safe and effective performance.
+- Indexed in *Chemical Engineering Journal*, IF = 13.2
 </div>
 </div>
 
@@ -109,6 +113,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0300957225003399) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Evaluated multiple interventions in OHCA, showing reduced time to first chest compression and significantly improved survival and neurological outcomes through cumulative system-level improvements.
+- Indexed in *Resuscitation*, IF = 4.6
 </div>
 </div>
 
@@ -122,6 +127,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0021979725007726) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Engineered M2-EVs for nebulized delivery, alleviating blast-induced lung injury by reducing inflammation, oxidative stress, and promoting macrophage polarization, highlighting a promising cell-free therapeutic strategy.
+- Indexed in *Journal of Colloid And Interface Science*, IF = 9.7
 </div>
 </div>
 
