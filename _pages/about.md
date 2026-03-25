@@ -64,7 +64,7 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@ AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
+[Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
 
 **Haojun Fan**, Zihan Kou, Jiameng Li, Linlin Li, Qianlong Xue 
 
@@ -99,7 +99,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- 第五篇 -->
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen5.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Cumulative effect of public health interventions on time interval to first chest compression and survival outcomes in out-of-hospital cardiac arrest](https://www.sciencedirect.com/science/article/abs/pii/S0300957225003399)
+
+**Haojun Fan**, Yue Lia, Nur Shahidah, Robert W.Neumar, Dehan Hong 
+
+[**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0300957225003399) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- Evaluated multiple interventions in OHCA, showing reduced time to first chest compression and significantly improved survival and neurological outcomes through cumulative system-level improvements.
+</div>
+</div>
 
 
 
