@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:300px !important; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:300px !important; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@ AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
