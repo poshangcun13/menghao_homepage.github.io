@@ -112,6 +112,27 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- 第六篇 -->
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen6.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Nebulized m2 macrophage-derived nanovesicles for the treatment of explosion-induced acute lung injury](https://www.sciencedirect.com/science/article/abs/pii/S0021979725007726)
+
+**Haojun Fan**, Linqiang Tian, Jie Jin, Feng Lai, Sanqiao Yao 
+
+[**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0021979725007726) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- Engineered M2-EVs for nebulized delivery, alleviating blast-induced lung injury by reducing inflammation, oxidative stress, and promoting macrophage polarization, highlighting a promising cell-free therapeutic strategy.
+</div>
+</div>
+
+
+
+
+
+
+
+
+
 
 
 # 📖 Educations
