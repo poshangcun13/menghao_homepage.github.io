@@ -53,12 +53,23 @@ My research interest includes neural machine translation and computer vision. I 
 
 **Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
 
+[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:WF5omc3nYNoC'></span></strong>
+- Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
+
+**Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
+
 [**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
 
