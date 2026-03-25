@@ -46,9 +46,9 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
+<!-- 第一篇 -->
 
-
-<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.2);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
@@ -60,8 +60,8 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.2);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<!-- 第二篇 -->
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@ AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
@@ -72,6 +72,21 @@ My research interest includes neural machine translation and computer vision. I 
 - Developed a rapid electrochemical biosensor for VWF detection in ECMO, enabling early bleeding risk assessment with high sensitivity, strong ELISA correlation, and point-of-care clinical applicability.
 </div>
 </div>
+
+<!-- 第三篇 -->
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen3.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Smart Fibrous Platform with a Gradient Hierarchical Structure for Wound Exudate Management and Real-Time Spatial pH Monitoring](https://link.springer.com/article/10.1007/s42765-025-00675-x)
+
+**Haojun Fan**, Junfeng Li, Zihan Kou, Jie Shi, Yanqing Liu 
+
+[**简介**](https://link.springer.com/article/10.1007/s42765-025-00675-x) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- Developed a smart wound dressing enabling exudate control, spatial pH monitoring, infection detection, and accelerated healing, integrating sensing and therapy in a wireless fibrous platform.
+</div>
+</div>
+
+
 
 
 
