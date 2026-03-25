@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px; height:300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
@@ -58,7 +58,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px; height:300px;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
