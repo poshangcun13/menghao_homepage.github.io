@@ -146,7 +146,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *1997.09 - 2000.07*, 武汉大学医学院第一附属医院，呼吸内科专业，获硕士学位。  
 - *2003.09 - 2006.07*, 解放军医学院（301医院/解放军总医院），呼吸与危重病专业，获博士学位。
 
-# 💬 Invited Talks
+# 💬 Major Funded Projects
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
