@@ -25,7 +25,6 @@ redirect_from:
 
 作为中国国际救援队医疗队副队长，参与国内外重大灾害救援26批次，并赴海外顶尖机构深造，持续推动救援技术国际化发展。现任国家卫健委卫生应急队伍建设指导专家、应急管理部医学救援重点实验室常务副主任、国家应急医学研究中心副主任，中国医师协会急救复苏与灾难医学分会主任委员、中华医学会灾难医学分会候任主任委员。曾获国家科技进步二等奖2项、省部级一等奖5项，持续引领我国应急医学学科与救援装备迈向国际先进水平。
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
 # 🔥 News
@@ -42,13 +41,15 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 🎖 Honors and Awards
 
-- *2019.12* 国家科技进步二等奖：重大自然灾害医疗救援体系的创建及关键技术、装备研发及应用
-
+- *2025.12* 中国安全生产协会安全科学科技进步一等奖：火灾爆炸事故致肺损伤机制研究及多学科诊治关键技术装备与应用
+  
 - *2014.12* 国家科技进步二等奖：我国重大突发事件应急医学救援模块化体系创建及应用
 
 - *2014.03* 中国人民武装警察部队科学委员会科技进步省部一等奖：高原高寒地震救援关键技术与装备研发
 
 - *2013.02* 天津市人民政府科技进步省部一等奖：急进高原救援群体性高原反应机制及防治研究
+
+- *2009.12* 国家科技进步二等奖：重大自然灾害医疗救援体系的创建及关键技术、装备研发及应用
 
 
 # 📝 Publications 
