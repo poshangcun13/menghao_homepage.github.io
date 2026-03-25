@@ -86,7 +86,18 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<!-- 第四篇 -->
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden; box-shadow: 0 4px 12px rgba(0,0,0,0.6);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen4.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[Photothermal hydrogel triggered erythrocyte fuel combustion strategy for rapid hemostasis in lethal non-compressible hemorrhage](https://www.sciencedirect.com/science/article/abs/pii/S1385894725123474)
+
+**Haojun Fan**, Lizong Tang, Jiameng Li, Xinran Yang, Duo Li 
+
+[**简介**](https://www.sciencedirect.com/science/article/abs/pii/S1385894725123474) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+- Developed a photothermal hemostatic hydrogel enabling rapid bleeding control, enhancing coagulation, reducing blood loss, and improving survival in severe hemorrhage models with safe and effective performance.
+</div>
+</div>
 
 
 
