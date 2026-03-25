@@ -134,16 +134,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-
-
-
-
-
-
-
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *1992.09 - 1997.07*, 河南医药大学，临床医学系，临床医学专业，获学士学位。  
+- *1997.09 - 2000.07*, 武汉大学医学院第一附属医院，呼吸内科专业，获硕士学位。  
+- *2003.09 - 2006.07*, 解放军医学院（301医院/解放军总医院），呼吸与危重病专业，获博士学位。
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
