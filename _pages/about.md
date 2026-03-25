@@ -48,7 +48,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 
-<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:200px !important; overflow:hidden;box-shadow: 0 4px 12px rgba(0,0,0,0.2);"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:200px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
