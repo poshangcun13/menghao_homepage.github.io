@@ -46,16 +46,36 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image' style="flex: none; width:500px; height:300px; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:100%; height:100%; object-fit:cover;"></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box' style="display:flex; gap:20px; align-items:flex-start;">
+
+  <!-- 图片区域 -->
+  <div class='paper-box-image'
+       style="flex:none; width:500px; height:300px; overflow:hidden; position:relative;">
+
+    <!-- 标签 -->
+    <div class="badge"
+         style="position:absolute; top:10px; left:10px; z-index:2;">
+      中科院一区Top
+    </div>
+
+    <!-- 图片 -->
+    <img src='images/lunwen1.png' alt="sym"
+         style="width:100%; height:100%; object-fit:cover; display:block;">
+  </div>
+
+  <!-- 文字区域 -->
+  <div class='paper-box-text' markdown="1" style="flex:1;">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
 
 **Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
 
-[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:WF5omc3nYNoC'></span></strong>
+[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)  
+<strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:WF5omc3nYNoC'></span></strong>
+
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
-</div>
+
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image' style="width:500px !important; height:300px !important; overflow:hidden;"><div><div class="badge">中科院一区Top</div><img src='images/lunwen2.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
