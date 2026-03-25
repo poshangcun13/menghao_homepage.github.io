@@ -63,10 +63,10 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@ AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
 
-**Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
+**Haojun Fan**, Zihan Kou, Jiameng Li, Linlin Li, Qianlong Xue 
 
 [**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-- Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
+- Developed a rapid electrochemical biosensor for VWF detection in ECMO, enabling early bleeding risk assessment with high sensitivity, strong ELISA correlation, and point-of-care clinical applicability.
 </div>
 </div>
 
