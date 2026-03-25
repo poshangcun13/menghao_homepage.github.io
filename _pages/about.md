@@ -46,7 +46,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px; height:300px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
@@ -58,14 +58,14 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px; height:300px;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">中科院一区Top</div><img src='images/lunwen1.png' alt="sym" style="width:500px !important; height:300px !important; object-fit:cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Development and validation of an interpretable multi-task model to predict outcomes in patients with rhabdomyolysis: a multicenter retrospective cohort study](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext)
+[Electrochemical VWF Biosensors Based on Two-Step Synthesized rGO@ AuNPs Nanocomposites for Early Prediction of ECMO Bleeding Complications](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406)
 
 **Haojun Fan**, Chunli Liu, Jie Shi, Fengjuan Wang
 
-[**简介**](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(25)00370-0/fulltext) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+[**简介**](https://www.sciencedirect.com/science/article/abs/pii/S0956566325009406) <strong><span class='show_paper_citations' data='xfb3uzcAAAAJ:Tyk-4Ss8FVUC'></span></strong>
 - Developed an interpretable multi-task machine learning model predicting AKI, severity, RRT, and mortality in rhabdomyolysis, achieving strong performance and supporting early risk assessment and clinical decision-making.
 </div>
 </div>
