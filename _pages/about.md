@@ -148,8 +148,12 @@ redirect_from:
 - *2003.09 - 2006.07*, 解放军医学院（301医院/解放军总医院），呼吸与危重病专业，获博士学位。
 
 # 💬 Projects and Patents
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2026*, 一种失血性休克微循环监测设备及系统（CN202310316473.1 / ZL202310316473.1）
+- *2024*, 一种免出血快速经皮穿刺装置（CN202311456775.5 / ZL202311456775.5）
+- *2024*, 一种新型ECPR动物实验平台及其使用方法（CN202311710349.X / ZL202311710349.X）
+- *2024*, 一种用于动物的ECMO实验装置及其方法（CN202310486192.0 / ZL202310486192.0）
+- *2024*, 一种智能心肺复苏培训系统（CN202211368002.7 / ZL202211368002.7）
+- *2024*, High Anticoagulation Extracorporeal Circulation Tube（US 11,890,397 B1）
 
 # 💻 Research Group
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
