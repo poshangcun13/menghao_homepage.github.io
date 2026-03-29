@@ -163,7 +163,7 @@ redirect_from:
 
 
 # 💻 Research Group
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- 本团队长期从事应急医学、灾害救援及智能生命支持技术研究，围绕国家重大突发事件需求开展基础与应用研究。
 
 
 <div class="tab-buttons">
