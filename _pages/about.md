@@ -149,6 +149,7 @@ redirect_from:
 
 # 💬 Patents and Research Projects
 ## Patents
+
 - *2026*, 一种失血性休克微循环监测设备及系统（CN202310316473.1 / ZL202310316473.1）
 - *2024*, 一种免出血快速经皮穿刺装置（CN202311456775.5 / ZL202311456775.5）
 - *2024*, 一种新型ECPR动物实验平台及其使用方法（CN202311710349.X / ZL202311710349.X）
@@ -156,6 +157,7 @@ redirect_from:
 - *2024*, 一种智能心肺复苏培训系统（CN202211368002.7 / ZL202211368002.7）
 - *2024*, High Anticoagulation Extracorporeal Circulation Tube（US 11,890,397 B1）
 ## Research Projects
+
 <table> <thead> <tr style="background-color:#2f80ed;color:white;"> <th>No.</th> <th>Project Title</th> <th>Grant No.</th> <th>Funding<br>(10k CNY)</th> <th>Source</th> <th>Program</th> <th>Role</th> <th>Level</th> <th>Start</th> <th>End</th> </tr> </thead> <tbody> <tr style="background-color:#f8fbff;"> <td>1</td> <td>火灾爆炸事故现场复合伤快速评估及救治关键技术与装备</td> <td>2024YFC3016600</td> <td>3000</td> <td>国家科技部</td> <td>国家重点研发计划</td> <td><b style="color:#d35400;">主持，首席科学家</b></td> <td><span style="color:#c0392b;"><b>国家级</b></span></td> <td>2025-01-01</td> <td>2027-12-31</td> </tr> <tr> <td>2</td> <td>灾害事故现场危重症伤员伤情评估与快速诊治关键技术装备</td> <td>2021YFC3002200</td> <td>3681.00</td> <td>国家科技部</td> <td>国家重点研发计划</td> <td><b style="color:#d35400;">主持，首席科学家</b></td> <td><span style="color:#c0392b;"><b>国家级</b></span></td> <td>2021-12-01</td> <td>2024-11-30</td> </tr> <tr style="background-color:#f8fbff;"> <td>3</td> <td>MSCs基于M1/M2-Th17/Treg免疫稳态调控烟雾吸入性肺损伤后炎症反应的机制研究</td> <td>81971878</td> <td>66</td> <td>国家自然科学基金委</td> <td>面上项目</td> <td><b>项目主持</b></td> <td><span style="color:#c0392b;"><b>国家级</b></span></td> <td>2020-01-01</td> <td>2023-12-31</td> </tr> <tr> <td>4</td> <td>高端智能ECMO关键技术装备研发</td> <td>TJUWYY2022002</td> <td>3000.00</td> <td>温州市政府</td> <td>转化项目</td> <td><b>项目主持</b></td> <td><span style="color:#2980b9;"><b>省部级</b></span></td> <td>2022-01-01</td> <td>2023-12-31</td> </tr> <tr style="background-color:#f8fbff;"> <td>5</td> <td>战场环境下肺损伤伤情特点及救治规范的研究</td> <td>BLB19J006</td> <td>380.00</td> <td>军委后勤保障部综合计划局</td> <td>重大项目</td> <td><b>项目主持</b></td> <td><span style="color:#2980b9;"><b>省部级</b></span></td> <td>2020-06-18</td> <td>2022-12-31</td> </tr> <tr> <td>6</td> <td>联合搜救相关数据与模型集成管理平台的开发</td> <td>2018YFC1504402-02</td> <td>128.72</td> <td>国家科技部</td> <td>国家重点研发计划</td> <td><b>课题主持</b></td> <td><span style="color:#c0392b;"><b>国家级</b></span></td> <td>2018-12-01</td> <td>2021-12-31</td> </tr> </tbody> </table>
 
 
@@ -167,16 +169,10 @@ redirect_from:
 
 
 <div class="tab-buttons">
-  <button onclick="showTab('team-intro')">团队简介</button>
-  <button onclick="showTab('team-members')">团队成员</button>
+  <button onclick="showTab('team-members')">研究方向</button>
   <button onclick="showTab('team-collab')">合作单位</button>
 </div>
 
-<div id="team-intro" class="tab-content">
-  <p>
-  本团队长期从事应急医学、灾害救援及智能生命支持技术研究，围绕国家重大突发事件需求开展基础与应用研究。
-  </p>
-</div>
 
 <div id="team-members" class="tab-content" style="display:none;">
   <ul>
